@@ -1,0 +1,14 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+gullain, physics, submitted
+steve, python, not submitted
+landry, History, submitted
+yann, databases, not submitted
+rodrigue, maths, not submitted
+bonfils, chemistry, submitted
+steccy, Geography, not submitted
+queen, English, submitted
+james, Biology, not submitted
