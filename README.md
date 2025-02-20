@@ -1,13 +1,13 @@
-# submission_reminder_app_karekezilionel
+## submission_reminder_app_karekezilionel
 summative directory
 
 
-#Description
+##Description
 
 The submission reminder app helps to alert or remind the students about upcoming assignments deadlines.
 
 
-#Prerequisite
+##Prerequisite
 
 Before running the application, make sure the following are installed on your system:
 
@@ -16,7 +16,7 @@ Bash shell(which is default on most Linux distributions).
 Git(for cloning the repository).
 
 
-#Installation
+##Installation
 
 #1.  Clone the repository
  
