@@ -67,3 +67,13 @@ Run the application
   ./startup.sh
   This script sets up the environment, loads required configurations, and executes the reminder.sh to process student submissions and send reminders.
 
+
+## Application details
+
+Scripts overview
+
+Files and Description
+
+startup.sh       initialize the environment and launches reminder.sh
+reminder.sh     Reads submission records and notifies students about pending submission
+function.sh       contains helper functions for processing submission records 
