@@ -43,7 +43,7 @@ function check_submissions {
         # Check if assignment matches and status is 'not submitted'
         if [[ "$status" == "not submitted" ]]; then
             echo "Reminder: $student has not submitted the $assignment assignment!"
-        elif [[ $status" == ""submitted" ]]; then
+        elif [[ "$status" == ""submitted" ]]; then
             echo "Reminder: $student has submitted the $assignment assignment!"
         fi
     done < <(tail -n +2 "$submissions_file") # Skip the header
